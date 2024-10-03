@@ -139,6 +139,7 @@ body{
 
 #movie-select .movie-item{
     width: 25%;
+    min-height: 25%;
     min-width: 250px;
     padding:10px 12px;
     cursor: pointer;
@@ -226,6 +227,6 @@ body{
 #footer .copyright{
     width: 100%;
     text-align: center;
-    color:var(--font-light-color)
+    color:var(--font-light-color);
 }
 
